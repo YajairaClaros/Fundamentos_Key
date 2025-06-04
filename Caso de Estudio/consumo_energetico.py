@@ -1,3 +1,14 @@
+'''
+Clase:        TC1001
+Tema:         Manejo de listas
+Ejercicio:    Caso de estudio
+Descripción:  Completar el cuestionario que nos propuso en la guía.
+
+Autor:        Yajaira Claros
+Fecha:        2025-06-03
+Estado:       [Terminado]
+'''
+
 import numpy as np
 
 consumo = np.array([

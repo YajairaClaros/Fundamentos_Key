@@ -1,3 +1,16 @@
+'''
+Clase:        TC1001
+Tema:         Variables, tipos, entradas y salidas
+Ejercicio:    Automatizando el cálculo de la propina
+Descripción:  Pide al usuario el total de una cuenta y el porcentaje de propina
+              (por ejemplo, 10%, 15%, 20%). Calcula y muestra en pantalla el total
+              a pagar.
+
+Autor:        Yajaira Claros
+Fecha:        2025-05-15
+Estado:       [Terminado]
+'''
+
 #Automatizando el cálculo de la propina
 
 cuenta_total = float(input("Ingrese el total de la cuenta: $"))
